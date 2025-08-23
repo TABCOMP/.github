@@ -7,7 +7,7 @@ This allows us to:
 - Keep collaboration simple with all repos under one org
 
 ## Members
-See [GROUP-INFO](./GROUP-INFO) for member names and skills.
+See [GROUP-INFO](https://github.com/TABCOMP/.github/blob/main/GROUP-INFO.md) for member names and skills.
 
 ## Deliverable 1
 - Instructor and TA have been invited to the org.

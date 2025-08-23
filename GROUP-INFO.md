@@ -1,7 +1,6 @@
 # GROUP-INFO
 
-## Group Name  
-**TabComp**
+## Group Name : **TabComp**
 
 ---
 

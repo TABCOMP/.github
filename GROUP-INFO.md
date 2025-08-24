@@ -20,7 +20,7 @@ Add your name and skills below this line, commit, and push in a PR to the org ro
 ## Member Entries  
 
 ### Member 2  
-- **Full Name:** <Member 2 Name>  
-- **GitHub Username:** <member2-username>  
-- **Skills:**
-- **Role:**
+- **Full** Name:Niwant Salunke
+- **GitHub Username:** Niwant 
+- **Skills:** React , Javascript, TypeScript , Database , Machine Learning , Git , AI , Three.js
+- **Role:** Developer , Researcher and Designer.

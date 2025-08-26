@@ -32,3 +32,11 @@ Add your name and skills below this line, commit, and push in a PR to the org ro
 - **GitHub Username:** Hitakshi02
 - **Skills:** React, Python, Javascript, TypeScript , Database , Machine Learning , Git , AI 
 - **Role:** Developer , Researcher and Designer.
+  
+---
+
+### Member 4
+- **Full Name** Kunal Shah
+- **GitHub Username:** Kunal3519
+- **Skills:** Python, Java, C/C++, Machine Learning, Deep Learning, Data Engineering, Cloud, Git, SQL, AI 
+- **Role:** Developer , Researcher and Designer, Tester.
